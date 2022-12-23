@@ -1,0 +1,19 @@
+.textStyle{
+    color: blue;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
+}
+.btnStyle{
+    color: white;
+    font-size: 2em;
+    border:0px;
+    background-color: tomato;
+    box-shadow: inset;
+    width: 200px;
+    height: 50px;
+
+}
+.message{
+    color: blue;
+}
